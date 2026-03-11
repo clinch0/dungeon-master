@@ -21,8 +21,11 @@ docker run -it --rm dungeon-master
 - Game over at 0 HP
 
 ## Controls
-    W/A/S/D — move
-    Q — quit
+    W/A/S/D - move
+    Q - quit
+    
+## Docker
+    Alpine => scratch. Static binary, zero dependencies.
 
 ## Image Size
     54.9 KB
