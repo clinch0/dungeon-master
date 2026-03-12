@@ -28,4 +28,4 @@ docker run -it --rm dungeon-master
     Alpine => scratch. Static binary, zero dependencies.
 
 ## Image Size
-    54.9 KB
+    About 55 KB
